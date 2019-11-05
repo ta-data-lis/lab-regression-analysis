@@ -1,5 +1,5 @@
 
-![Ironhack logo](https://i.imgur.com/1QgrNNw.png)
+<img src="https://bit.ly/2VnXWr2" alt="Ironhack Logo" width="100"/>
 
 # Lab | Regression Analysis
 
